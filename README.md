@@ -1,4 +1,3 @@
-[https://github.com/Zolvhub/Bubuverse-BOT/releases](https://github.com/Zolvhub/Bubuverse-BOT/releases)
 
 # Bubuverse-BOT: Pro Automation for Serious Bubuverse Farmers
 
